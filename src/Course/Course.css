@@ -1,0 +1,30 @@
+.course-card{
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.course-price
+{
+    color: #A12C2F;
+}
+.fb{
+    width: 35% ;
+    background-color: #A12C2F;
+    font-weight: 500;
+    color: white;
+    border: 0;
+    padding: 7px;
+    border-radius: 50px 50px;
+
+}
+
+.gmail:hover{
+
+    background-color: rgb(3, 56, 46);
+ 
+}
+
+.shadoaa:hover {
+    box-shadow: 0 8px 17px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: all .45s ease-in-out;
+  }

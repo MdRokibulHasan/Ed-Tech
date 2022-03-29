@@ -1,0 +1,68 @@
+.navbar
+{
+  background-color: #1F272B;
+}
+.navbar-brand  {
+  color: white ;
+}
+
+.menu-link{
+  color: white ;
+
+}
+.schol-name-color{
+  color: #A12C2F;
+}
+.menu-link:hover {
+  color: #A12C2F !important;
+} 
+
+.contactme-card {
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+.fa-navicon{
+ 
+  color: white !important;
+}
+.signin{
+  text-decoration: none;
+}
+.signin{
+  background-color: #A12C2F;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: white !important;
+  border-radius: 50px 50px;
+}
+
+
+
+.nav-link{
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+.nav-link:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.nav-link:hover:after { 
+  width: 90%; 
+  left: 0; 
+}

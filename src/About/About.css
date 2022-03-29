@@ -1,0 +1,11 @@
+.about-us {
+  color: rgb(3, 56, 46) !important;
+}
+
+.aboutus {
+  background: url(../images/5cba2aba229c4_thumb900.jpg)  no-repeat center center fixed ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
